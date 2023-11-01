@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito by GuedesCSS :wave:
+Feito by Bernardo Torres :wave:
